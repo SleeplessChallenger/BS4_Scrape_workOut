@@ -7,6 +7,6 @@ of **Beautiful Soup** library.
     artificially created page
 2. `real_site_scrape` is where I scraped real site
 3. `imporved_real_site_scrape` is a small project where I not only scraped
-    real site, but also made that info being written to `.txt. file and present
-    user to input some basic parameters
+    real site, but also made that info being written to `.txt`. file and present
+    user the opportunity to input some basic parameters
    
